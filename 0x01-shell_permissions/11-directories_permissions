@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod -R 755 d .
+#!/bin/bashchmod -R 755 */ 
