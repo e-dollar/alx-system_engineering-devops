@@ -1,2 +1,2 @@
-#!/bin/bar
-tr A c | 
+#!/bin/bash
+tr A Z | Ze
