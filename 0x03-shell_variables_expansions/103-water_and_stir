@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%water\n" "%stir\n" (($WATER + $STIR))
